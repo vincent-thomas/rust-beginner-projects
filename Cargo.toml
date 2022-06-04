@@ -1,0 +1,7 @@
+[workspace]
+members = [
+  "projects/1-hello-world",
+  "projects/2-basic-types",
+  "projects/3-loops"
+]
+default-members = ["projects/1-hello-world"]
