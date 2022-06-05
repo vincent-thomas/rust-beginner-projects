@@ -2,6 +2,7 @@
 members = [
   "projects/1-hello-world",
   "projects/2-basic-types",
-  "projects/3-loops"
+  "projects/3-loops",
+  "projects/5-pointers",
+  "projects/4-functions"
 ]
-default-members = ["projects/1-hello-world"]
